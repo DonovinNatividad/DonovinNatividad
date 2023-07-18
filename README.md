@@ -1,6 +1,6 @@
 ### Hi there 👋
- - 🔭 I’m currently working on finding a Summer Internship
- - 🌱 I’m currently learning more about Web Development and contributing to projects
+ - 🔭 I’m currently working on building AI tools at Emerge Inc.
+ - 🌱 I’m currently learning more about Web Development and A.I. Integration
 - 👯 I’m looking to collaborate on WebDev projects
 - 🤔 I’m looking for help with learning about different languages and their uses
 - 💬 Ask me about how I'm doing
