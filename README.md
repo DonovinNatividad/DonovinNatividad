@@ -1,12 +1,8 @@
 ### Hi there 👋
- - 🔭 I’m currently working on building AI tools at Emerge Inc.
- - 🌱 I’m currently learning more about Web Development and A.I. Integration
-- 👯 I’m looking to collaborate on WebDev projects
+ - 🔭 I’m currently working on some projects 
+ - 🌱 I’m currently learning more about Web Development and AI Integration
 - 🤔 I’m looking for help with learning about different languages and their uses
-- 💬 Ask me about how I'm doing
 - 📫 How to reach me: Natividad.10@osu.edu
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like to workout and I love playing video games
 
  <!--
 **DonovinNatividad/DonovinNatividad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
