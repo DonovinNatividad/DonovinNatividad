@@ -1,20 +1,5 @@
-### Hi there 👋
- - 🔭 I’m currently working on some projects 
- - 🌱 I’m currently learning more about Web Development and AI Integration
-- 🤔 I’m looking for help with learning about different languages and their uses
-- 📫 How to reach me: Natividad.10@osu.edu
+### Hi my name's Donovin Natividad and I currently attend The Ohio State University 
 
- <!--
-**DonovinNatividad/DonovinNatividad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### 
-Here are some ideas to get you started:
-
- - 🔭 I’m currently working on finding a Summer Internship
- - 🌱 I’m currently learning more about Web Development and contributing to projects
-- 👯 I’m looking to collaborate on WebDev projects
-- 🤔 I’m looking for help with learning about different languages and their uses
-- 💬 Ask me about how I'm doing
-- 📫 How to reach me: Natividad.10@osu.edu
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like to workout and I love playing video games
--->
+I am currently learning how to use the T3 Stack right now and taking many classes.
+I am very interested in web technology, ai, and learning how to automate systems to
+promote faster development. If you have a question lmk! 😊
